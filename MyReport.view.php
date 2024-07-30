@@ -45,7 +45,7 @@
             "responsive" => true,
             "title" => array(
                 "display" => true,
-                "text" => 'Chart.js Line Chart - Multi Axis'
+                "text" => 'Chart.js Combo Bar Line Chart'
             ),
             "tooltip" => array(
                 "mode" => "index",
