@@ -20,25 +20,21 @@
         'columns' => array(
             "month",
             "Dataset 1" => array(
+                "borderWidth" => 2,
+                "borderColor" => 'rgb(54, 162, 235)',
+                "fill" => false,
                 "config" => array(
-                    "fill" => false,
                     "type" => "line",
-                    "borderWidth" => 2,
-                    "borderColor" => 'rgb(54, 162, 235)'
                 )
             ),
             "Dataset 2" => array(
-                "config" => array(
-                    "borderWidth" => 2,
-                    "borderColor" => 'white',
-                    "backgroundColor" => 'rgb(255, 99, 132)'
-                )
+                "borderWidth" => 2,
+                "borderColor" => 'white',
+                "backgroundColor" => 'rgb(255, 99, 132)'
             ),
             "Dataset 3" => array(
-                "config" => array(
-                    "backgroundColor" => 'rgb(75, 192, 192)',
-                    "borderColor" => 'rgb(75, 192, 192)'
-                )
+                "backgroundColor" => 'rgb(75, 192, 192)',
+                "borderColor" => 'rgb(75, 192, 192)'
             )
         ),
         "options" => array(
